@@ -27,7 +27,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign in to Customer",
+                "label": "Sign in to Customer Portal",
                 "url": "/signup",
                 "style": "primary"
             }
