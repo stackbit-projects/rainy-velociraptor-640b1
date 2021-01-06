@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: sell your home
+    title: "sell your home here \_and now.."
     content: the simplest easiest way to sell your home
     actions:
       - label: Learn More
