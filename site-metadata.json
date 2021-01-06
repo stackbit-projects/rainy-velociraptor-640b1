@@ -27,7 +27,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Sign in to Customer",
                 "url": "/signup",
                 "style": "primary"
             }
