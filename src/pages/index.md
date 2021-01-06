@@ -100,7 +100,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: use our on site valuation form to get your cash offer from sell-fast
+    title: '''get your cash offer today'''
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
