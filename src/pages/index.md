@@ -14,7 +14,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-      - label: Re
+      - label: 'Read our '
         url: lorem-ipsum
         style: link
         has_icon: false
