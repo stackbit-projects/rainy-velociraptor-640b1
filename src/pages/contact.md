@@ -38,6 +38,6 @@ sections:
         is_required: true
     submit_label: Send Message
     form_action: ''
-    hide_labels: false
+    hide_labels: true
 template: landing
 ---
