@@ -46,7 +46,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Quickly processed transactions with full legal assistance
+      - title: Quickly processed transactions with full all legal fees covered
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
