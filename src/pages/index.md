@@ -11,6 +11,7 @@ sections:
       - label: Get Your cash offer now
         url: /features
         style: primary
+        has_icon: true
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
