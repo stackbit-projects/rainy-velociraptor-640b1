@@ -35,7 +35,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          When you contact Sell-fast to sell your home fast , our specialists
+          when you contact Sell-fast to sell your home fast , our specialists
           provide the quickest valuation. Valuation depends on the research
           conducted on the local property market. Next, you get a fast cash
           offer. If you accept, your house will be sold just like that.
