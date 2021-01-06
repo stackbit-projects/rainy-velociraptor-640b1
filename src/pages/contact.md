@@ -11,14 +11,6 @@ sections:
       tortor pretium ligula.
     form_id: contactForm
     form_fields:
-      - input_type: text
-        name: name
-        label: Name
-        is_required: true
-      - input_type: email
-        name: email
-        label: Email
-        is_required: true
       - input_type: select
         name: subject
         label: Subject
@@ -27,6 +19,14 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+      - input_type: text
+        name: name
+        label: Name
+        is_required: true
+      - input_type: email
+        name: email
+        label: Email
+        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
