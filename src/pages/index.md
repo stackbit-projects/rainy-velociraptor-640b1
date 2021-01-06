@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: sell your home here and now..
+    title: Sell your home here and now..
     content: the simplest easiest way to sell your home
     actions:
       - label: Get Your cash offer now
