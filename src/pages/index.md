@@ -101,7 +101,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: '''get your cash offer today'''
-    subtitle: This is an optional description for the call to action block.
+    subtitle: use the online calculator or call one of our property sale specialists
     actions:
       - label: Get Started
         url: /signup
