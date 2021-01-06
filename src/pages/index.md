@@ -8,7 +8,7 @@ sections:
     title: sell your home here and now..
     content: the simplest easiest way to sell your home
     actions:
-      - label: 'Get Your cash '
+      - label: Get Your cash offer now
         url: /features
         style: primary
       - label: lorem-ipsum
