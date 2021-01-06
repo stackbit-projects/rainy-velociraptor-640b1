@@ -35,9 +35,10 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          When you contact Sell-fast to sell your home fast , our specialists
+          provide the quickest valuation. Valuation depends on the research
+          conducted on the local property market. Next, you get a fast cash
+          offer. If you accept, your house will be sold just like that.
         actions:
           - label: Learn More
             url: /features
