@@ -28,8 +28,8 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Right from the initial cash offer to the very end of the selling
+      process,we guarantee a smooth, convenient, and hassle-free experience
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
