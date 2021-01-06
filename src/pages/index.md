@@ -12,6 +12,7 @@ sections:
         url: /features
         style: primary
         has_icon: true
+        icon: arrow-right
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
