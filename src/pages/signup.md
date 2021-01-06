@@ -1,5 +1,5 @@
 ---
-title: Sign Up
+title: This section is for our vendors to track their sales
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
