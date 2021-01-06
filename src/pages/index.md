@@ -31,7 +31,7 @@ sections:
       Right from the initial cash offer to the very end of the selling
       process,we guarantee a smooth, convenient, and hassle-free experience
     features:
-      - title: Quickest valuation of property and a cash offer
+      - title: fast in house valuations
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
