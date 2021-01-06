@@ -103,7 +103,7 @@ sections:
     title: '''get your cash offer today'''
     subtitle: use the online calculator or call one of our property sale specialists
     actions:
-      - label: Get Started
+      - label: get your cash offer now
         url: /signup
         style: primary
   - section_id: recent-posts
