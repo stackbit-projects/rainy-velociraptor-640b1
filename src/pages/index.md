@@ -64,9 +64,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          we know exactly what questions to ask before we make an offer so
+          unlike the open market you can rest assured we deliver on our promise
         actions:
           - label: Learn More
             url: /features
