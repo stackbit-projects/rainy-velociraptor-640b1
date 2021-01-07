@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/unhappy house.png
     image_alt: App preview
     title: Sell your home here and now..
     content: the simplest easiest way to sell your home
